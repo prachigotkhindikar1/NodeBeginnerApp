@@ -10,4 +10,4 @@ Goal :
 
 External Modules:
 
-formidable : to parse the form data.
+formidable : to parse the incoming request.
